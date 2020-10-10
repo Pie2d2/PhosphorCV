@@ -12,9 +12,12 @@ algorithims, leading to simple reuse for every game.
 
 #### Versatile Object Detection
 - Object detection that is changed by updating a single photo. Based off of a Cornell reinforcement learning algorithim, only a single upload is needed per classification. Using a YOLO tool, the browser program shows the real time prediction on if your object matches one of the image classes (currently at 3 different class options due to the fact that there are 3 different randomizaton for every FTC game). So far, the machine learning model is in the browser and does not need training.
+
+
 ![Prediction A Test](https://github.com/Pie2d2/PhosphorCV/blob/main/predictiona.PNG)
 ![Prediction B Test](https://github.com/Pie2d2/PhosphorCV/blob/main/predictionb.PNG) 
 ![Prediction C Test](https://github.com/Pie2d2/PhosphorCV/blob/main/predictionc.PNG)  
+
 
 ## Getting Started
 **Rest Coming Soon!**
